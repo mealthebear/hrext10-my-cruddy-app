@@ -39,7 +39,11 @@
  		* Make a header tag
  		* Make a div and put name of website in it
  		* Try to center it at the top
-
+ 	2. Have a paragraph or two talking about the website 
+ 	and what it does below the header
+ 		* Make a div tag
+ 		* Add a paragraph tag inside
+ 		* Write about what your website does
 
 
 
