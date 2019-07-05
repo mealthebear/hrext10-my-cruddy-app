@@ -22,3 +22,13 @@
    certain elements do cool stuff like move around. I could also
    put in a footer at the bottom which might have an about page 
    or some other links. I can also add images to the page where necessary.
+
+	 ### Problem I want to solve
+	 	Make a website that has every class and spec and a little info on each one.
+	 	I also don't want it to be super complex or confusing, but rather simple 
+	 	and easy to follow along and use. I can also store user data either on the
+	 	front page or every page such as their realm and character name or asking
+	 	some question.
+
+ ## Phase 2 - The Drawing Board (WoW)
+ 	### MVP Tasks
