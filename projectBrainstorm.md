@@ -39,11 +39,13 @@
  		* Make a header tag
  		* Make a div and put name of website in it
  		* Try to center it at the top
+
  	2. Have a paragraph or two talking about the website 
  	and what it does below the header
  		* Make a div tag
  		* Add a paragraph tag inside
  		* Write about what your website does
+ 		
  	3. Make a section for each class (maybe use CSS Grid)
  		* Make a parent div
  		* Make another div, put name of class in it, and put in the parent div
