@@ -16,6 +16,11 @@ body {
 	margin: 0px;
 }
 
+img {
+	max-width: 100%;
+	height: auto;
+}
+
 .website-title-div {
 	width: 435px;
 	height: 70px;
@@ -42,6 +47,13 @@ body {
 	word-spacing: 3px;
 	font-family: 'Heebo', Arial, sans-serif;
 }
+
+.pepe-bird-img {
+	display: block;
+	margin: 0 auto;
+	width: 400px;
+}
+
 
 
 
