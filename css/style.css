@@ -54,6 +54,16 @@ img {
 	width: 400px;
 }
 
+.pepe-text {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 75px;
+	font-size: 100px;
+	font-family: 'Dancing Script', cursive, Arial, sans-serif;
+	transform: rotate(-20deg);
+	text-decoration: underline;
+}
 
 
 
