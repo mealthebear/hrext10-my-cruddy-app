@@ -11,3 +11,22 @@ inputs (border swag)
 https://getbootstrap.com/docs/4.3/getting-started/introduction/
 */
 /* Blank slate */
+
+body {
+	margin: 0px;
+}
+
+.website-title-div {
+	width: 385px;
+	height: 63px;
+	text-align: center;
+	margin: 0 auto;
+	border: 2px solid black;
+}
+
+.website-title {
+	/*background-color: #dddddd; keep track of where homepage title is */
+	color: #428df5;
+	font-size: 55px;
+	padding: 5px;
+}
