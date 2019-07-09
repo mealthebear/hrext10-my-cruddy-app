@@ -26,6 +26,7 @@ img {
 	height: 70px;
 	text-align: center;
 	margin: 0 auto;
+	background-color: black;
 	border: 2px solid black;
 	border-radius: 10px;
 }
@@ -81,6 +82,7 @@ img {
 
 .all-classes {
 	margin-top: 50px;
+	background-color: #e3e1df;
 }
 
 .class-div {
@@ -109,6 +111,7 @@ img {
 	color: #1aa301;
 	text-align: center;
 	font-size: 30px;
+	margin-top: 25px;
 }
 
 .strength li {
