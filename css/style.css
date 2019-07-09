@@ -105,18 +105,20 @@ img {
 
 .strength {
 	width: 90%;
-	color: #31ba07;
+	color: #1aa301;
 	text-align: center;
+	font-size: 30px;
 }
 
 .strength li {
 	color: black;
 	list-style-type: none;
+	font-size: 20px;
 }
 
 .strength li::before {
 	content: "+ ";
-	color: #31ba07;
+	color: #1aa301;
 	font-weight: bold;
 }
 
@@ -124,11 +126,13 @@ img {
 	width: 90%;
 	color: #bd0d00;
 	text-align: center;
+	font-size: 30px;
 }
 
 .weakness li {
 	color: black;
 	list-style-type: none;
+	font-size: 20px;
 }
 
 .weakness li::before {
