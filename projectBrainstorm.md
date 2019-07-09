@@ -45,11 +45,16 @@
  		* Make a div tag
  		* Add a paragraph tag inside
  		* Write about what your website does
- 		
+
  	3. Make a section for each class (maybe use CSS Grid)
  		* Make a parent div
  		* Make another div, put name of class in it, and put in the parent div
  		* Make another div, put list of strengths and weaknesses of each class, and put in parent div
+
+ 	4. Make a footer
+ 		* Make a footer tag
+ 		* Make a div and put copyright symbol with name of website in it
+ 			
 
 
 
