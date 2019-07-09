@@ -48,8 +48,14 @@ img {
 	font-family: 'Heebo', Arial, sans-serif;
 }
 
+.intro-paragraph {
+	display: inline-block;
+	padding-left: 5px;
+}
+
 .pepe-bird-img {
-	display: block;
+	/*display: block;*/
+	float: right;
 	margin: 0 auto;
 	width: 400px;
 }
@@ -58,6 +64,7 @@ img {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	margin-left: 900px;
 	height: 75px;
 	font-size: 100px;
 	font-family: 'Dancing Script', cursive, Arial, sans-serif;
