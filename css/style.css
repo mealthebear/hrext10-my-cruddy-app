@@ -85,17 +85,17 @@ img {
 
 .class-div {
 	display: inline-block;
-	width: 33%;
+	width: 30%;
 }
 
 .class-img {
-	width: 350px;
+	width: 90%;
 	height: 300px;
 }
 
 .class-name {
 	margin-top: 125px;
-	width: 350px;
+	width: 90%;
 	text-align: center;
 }
 
