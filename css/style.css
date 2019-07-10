@@ -58,6 +58,7 @@ img {
 
 .navbar li {
 	float: left;
+	border-right: 2px solid #bbbbbb;
 }
 
 .navbar a {
