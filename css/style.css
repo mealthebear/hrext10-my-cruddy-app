@@ -57,7 +57,20 @@ img {
 }
 
 .navbar li {
-	display: inline;
+	float: left;
+}
+
+.navbar a {
+	display: block;
+	padding: 8px;
+	background-color: black;
+	color: #428df5;
+	font-family: 'Muli', Arial, sans-serif;
+}
+
+li a:hover,
+li a.active {
+	background-color: #bee8bb;
 }
 
 .intro-paragraph {
