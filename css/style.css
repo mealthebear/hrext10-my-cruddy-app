@@ -50,6 +50,16 @@ img {
 	font-family: 'Heebo', Arial, sans-serif;
 }
 
+.navbar {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.navbar li {
+	display: inline;
+}
+
 .intro-paragraph {
 	display: inline-block;
 	padding-left: 5px;
@@ -114,6 +124,10 @@ img {
 	margin-top: 25px;
 }
 
+.strength ul {
+	padding: 0px;
+}
+
 .strength li {
 	color: black;
 	list-style-type: none;
@@ -131,6 +145,10 @@ img {
 	color: #bd0d00;
 	text-align: center;
 	font-size: 30px;
+}
+
+.weakness ul {
+	padding: 0px;
 }
 
 .weakness li {
