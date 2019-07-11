@@ -54,9 +54,23 @@
  	4. Make a footer
  		* Make a footer tag
  		* Make a div and put copyright symbol with name of website in it
- 			
 
 
+ 	5. Make questionnaire web form
+ 		* Make a form tag or box
+ 		* Put 'Key' text field with label
+ 		* Put 'Value' text field with label
+
+ 	6. Make CRUD buttons 
+ 		* Make a div element
+ 		* Put 5 buttons in the div (Create, Update, Delete, Reset Input, Clear Database)
+
+ 	7. Display localStorage
+ 		* Make a table element
+ 		* Make a table head element (<thead>)	
+ 		* Add a "Key" and "Value" cell in the same row
+ 		* Add a table body element below thead (<tbody>)
+ 		* Close that table tag		
 
 
 
