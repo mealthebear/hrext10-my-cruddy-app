@@ -262,6 +262,7 @@ li a.active {
 	cursor: pointer;
 	padding: 10px 20px;
 	border: none;
+	border-radius: 5px;
 	color: black;
 	font-size: 16px;
 }
