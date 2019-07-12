@@ -240,14 +240,51 @@ li a.active {
 .web-form {
 	display: flex;
 	justify-content: center;
+	align-items: center;
 	margin-top: 40px;
 }
 
 .web-form input {
 	border: 2px solid black;
 	border-radius: 5px;
+	height: 20px;
 }
 
+.crud-buttons {
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+}
+
+.crud-buttons button,
+.web-form button {
+	margin-left: 10px;
+	cursor: pointer;
+	padding: 10px 20px;
+	border: none;
+	color: black;
+	font-size: 16px;
+}
+
+.create {
+	background-color: #11DF67;
+}
+
+.update {
+	background-color: #4696F1;
+}
+
+.delete {
+	background-color: #EEDA20;
+}
+
+.clear {
+	background-color: #B9160E;
+}
+
+.reset {
+	background-color: #B02AEF;
+}
 
 
 
