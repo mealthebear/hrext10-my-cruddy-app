@@ -242,8 +242,9 @@ li a.active {
 	justify-content: center;
 	align-items: center;
 	margin-top: 80px;
-	height: 40px;
+	padding: 10px;
 	font-size: 20px;
+	font-family: 'Noticia Text', Arial, serif;
 	color: black;
 	background-color: #bee8bb;
 	word-spacing: 1px;
