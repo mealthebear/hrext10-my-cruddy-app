@@ -274,29 +274,54 @@ li a.active {
 	margin-left: 10px;
 	cursor: pointer;
 	padding: 10px 20px;
-	border: none;
 	border-radius: 5px;
 	color: black;
 	font-size: 16px;
+	background-color: white;
 }
 
 .create {
+	transition-duration: 0.4s;
+	border: 3px solid #11DF67;
+}
+
+.create:hover {
 	background-color: #11DF67;
 }
 
 .update {
+	transition-duration: 0.4s;
+	border: 3px solid #4696F1;
+}
+
+.update:hover {
 	background-color: #4696F1;
 }
 
 .delete {
+	transition-duration: 0.4s;
+	border: 3px solid #EEDA20;
+}
+
+.delete:hover {
 	background-color: #EEDA20;
 }
 
 .clear {
+	transition-duration: 0.4s;
+	border: 3px solid #B9160E;
+}
+
+.clear:hover {
 	background-color: #B9160E;
 }
 
 .reset {
+	transition-duration: 0.4s;
+	border: 3px solid #B02AEF;
+}
+
+.reset:hover {
 	background-color: #B02AEF;
 }
 
