@@ -8,7 +8,7 @@
   integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
   crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js"></script>
-  <link href="https://fonts.googleapis.com/css?family=Dancing+Script:700|Heebo|Muli:600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Dancing+Script:700|Heebo|Muli:600|Nunito:600i&display=swap" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
@@ -29,9 +29,9 @@
 
 	<div class="web-form">
 	  <form>
-	  	<label>Key</label>
-	  	<input class="key" type="text">
-	  	<label>Value</label>
+	  	<label>Character Name</label>
+	  	<input class="key" type="text" maxlength="12">
+	  	<label>Realm</label>
 	  	<input class="value" type="text">
 	  </form>
 	  <button class="reset">Reset Input</button>	
@@ -48,8 +48,8 @@
     	<table class="table">
     		<thead>
     			<tr>
-    				<th scope="col">Key</th>
-    				<th scope="col">Value</th>
+    				<th scope="col">Character Name</th>
+    				<th scope="col">Realm</th>
     			</tr>
     		</thead>
     		<tbody>

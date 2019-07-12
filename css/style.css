@@ -287,6 +287,28 @@ li a.active {
 	background-color: #B02AEF;
 }
 
+.row {
+	display: flex;
+	background-color: #cccccc;
+	width: 30%;
+	justify-content: center;
+}
 
+.table {
+	border-spacing: 30px;
+	border-collapse: separate;
+}
+
+label {
+	font-family: 'Nunito', Arial, sans-serif;
+}
+
+th {
+	font-family: 'Nunito', Arial, sans-serif;
+}
+
+td {
+font-family: 'Muli', Arial, sans-serif;
+}
 
 
