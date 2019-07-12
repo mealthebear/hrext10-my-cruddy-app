@@ -292,6 +292,8 @@ li a.active {
 	background-color: #cccccc;
 	width: 30%;
 	justify-content: center;
+	margin: 0 auto;
+	margin-top: 60px;
 }
 
 .table {
@@ -308,7 +310,7 @@ th {
 }
 
 td {
-font-family: 'Muli', Arial, sans-serif;
+	font-family: 'Muli', Arial, sans-serif;
 }
 
 

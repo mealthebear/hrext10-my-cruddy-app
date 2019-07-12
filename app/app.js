@@ -47,7 +47,7 @@ $(document).ready(function() {
   $('.create').click(function() {
     if (getKeyInput() !== '' && getValueInput() !== '') {
       if (keyExists(getKeyInput())) {
-        if(confirm('key already exists in database, do you want to update instead?')) {
+        if(confirm('That character already exists in database, do you want to update instead?')) {
           updateItem(getKeyInput(), getValueInput());
           showDatabaseContents();
         }
@@ -57,7 +57,7 @@ $(document).ready(function() {
         resetInputs();
       }
     } else  {
-      alert('key and value must not be blank');
+      alert('Please input your character name and realm');
     }
   });
 
@@ -68,10 +68,10 @@ $(document).ready(function() {
         showDatabaseContents();
         resetInputs();
       } else {
-        alert('key does not exist in database');
+        alert('That character does not exist in the database');
       }
     } else {
-      alert('key and value must not be blank');
+      alert('Please input your character name and realm');
     }
   });
 
@@ -82,10 +82,10 @@ $(document).ready(function() {
         showDatabaseContents();
         resetInputs();
       } else {
-        alert('key does not exist in database');
+        alert('That character does not exist in database');
       }
     } else {
-      alert('key must not be blank');
+      alert('Please input your character name');
     }
   });
 
