@@ -237,11 +237,23 @@ li a.active {
 	color: #428df5;
 }
 
+.intro-web-form {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 80px;
+	height: 40px;
+	font-size: 20px;
+	color: black;
+	background-color: #bee8bb;
+	word-spacing: 1px;
+}
+
 .web-form {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin-top: 90px;
+	margin-top: 10px;
 }
 
 .web-form input {
@@ -317,6 +329,7 @@ td {
 	justify-content: center;
 	background-color: black;
 	color: #428df5;
+	font-family: 'Muli', Arial, sans-serif;
 	font-size: 50px;
 	width: 30%;
 	margin: 0 auto;
