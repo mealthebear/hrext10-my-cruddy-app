@@ -238,7 +238,14 @@ li a.active {
 }
 
 .web-form {
+	display: flex;
+	justify-content: center;
 	margin-top: 40px;
+}
+
+.web-form input {
+	border: 2px solid black;
+	border-radius: 5px;
 }
 
 
